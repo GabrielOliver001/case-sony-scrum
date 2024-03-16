@@ -1,2 +1,1 @@
-# case-sony-scrum
-Análise crítica sobre aplicação do Scrum - Case de sucesso da Sony
+# Análise crítica sobre aplicação do Scrum - Case de sucesso da Sony
